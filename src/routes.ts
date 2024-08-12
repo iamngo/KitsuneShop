@@ -1,0 +1,19 @@
+export const LOGIN = "/login";
+export const REGISTER = "/register";
+export const ADMIN = "/admin";
+export const PRODUCTS = "products";
+export const PRODUCT_FORM = "product-form";
+export const PRODUCT_FORM_EDIT = "product-form/:id";
+export const CATEGORIES = "categories";
+export const CATEGORY_FORM = "category-form";
+export const CATEGORY_FORM_EDIT = "category-form/:id";
+export const USER = "/user";
+export const PRODUCT_DETAIL_URL = "product-detail/:urlName";
+export const PURCHASE_DETAIL_URL = "purchase-detail/:id";
+export const PRODUCT_DETAIL = "product-detail";
+export const PURCHASE_DETAIL = "purchase-detail";
+export const HOME = "/";
+export const MYPURCHASE = 'purchases';
+export const CART = 'cart'
+export const RECENTLY_VIEWED = 'recently-viewed'
+
